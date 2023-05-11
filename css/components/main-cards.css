@@ -1,0 +1,32 @@
+.main-cards{
+  display: flex;
+  flex-wrap: wrap
+ }
+
+.apply-card,
+.learn-card,
+.build-card{
+  background-color: white;
+  box-shadow: 2px 2px 4px rgb(92, 89, 89);
+  padding: 30px;
+  text-align: center;
+  width: 160px;
+  height: 280px;
+  margin: 40px;
+}
+
+.build-card img,
+.learn-card img,
+.apply-card img{
+  width: 70px;
+  height: 70px;
+  padding-top: 30px;
+}
+
+.main-cards p{
+  color: rgb(154, 150, 150);
+}
+
+.main-cards h2{
+  font-size: 18px;
+}

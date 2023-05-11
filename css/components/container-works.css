@@ -1,0 +1,8 @@
+.container-works h2{
+  text-align: center;
+}
+
+.container-works{
+  margin: auto;
+  width: 80%;
+}
